@@ -6,6 +6,6 @@
     "require": {
         "php": ">=7.0",
         "lovata/oc-toolbox-plugin": "dev-composer",
-        "lovata/oc-shopaholic-plugin": "dev-composer"
+        "lovata/oc-shopaholic-plugin": "dev-composer-test"
     }
 }
